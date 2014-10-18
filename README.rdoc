@@ -1,4 +1,12 @@
-== README
+== Goal:
+Create a simple application that allows a user to input location information via a form. Upon submission, the app should display a list of 10 nearby coffee shops. The list should include the names and addresses of the coffee shops.
+
+Download and run app:
+<tt>git clone git@github.com:stbarrientos/wedding_wire_application.git</tt>
+<tt>bundle install</tt>
+<tt>rake db:create</tt>
+<tt>rake db:migrate</tt>
+<tt>rails s</tt>
 
 This README would normally document whatever steps are necessary to get the
 application up and running.

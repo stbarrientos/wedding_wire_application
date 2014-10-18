@@ -15,4 +15,4 @@
 /log/*.log
 /tmp
 /secrets.rb
-/assets/javascripts/secrets.js
+/app/assets/javascripts/secrets.js
